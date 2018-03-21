@@ -1,7 +1,7 @@
 package funcoes
 
 fun incremento(num: Int) {
-	num++
+	//num++
 }
 
 fun main(args: Array<String>) {
