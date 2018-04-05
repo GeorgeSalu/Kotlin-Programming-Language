@@ -1,9 +1,9 @@
 package oo.polimorfismo
 
-class Feijao(val peso: Double)
-class Arroz(val peso: Double)
+class Feijao1(val peso: Double)
+class Arroz1(val peso: Double)
 
-class Pessoa(var peso: Double) {
+class Pessoa1(var peso: Double) {
 	fun comer(feijao: Feijao) {
 		peso += feijao.peso
 	}
